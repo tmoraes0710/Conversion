@@ -1,0 +1,9 @@
+C:\Users\thimo\source\repos\Converter.Project\Converter.Common\bin\Debug\netcoreapp3.1\Converter.Common.deps.json
+C:\Users\thimo\source\repos\Converter.Project\Converter.Common\bin\Debug\netcoreapp3.1\Converter.Common.dll
+C:\Users\thimo\source\repos\Converter.Project\Converter.Common\bin\Debug\netcoreapp3.1\Converter.Common.pdb
+C:\Users\thimo\source\repos\Converter.Project\Converter.Common\obj\Debug\netcoreapp3.1\Converter.Common.csprojAssemblyReference.cache
+C:\Users\thimo\source\repos\Converter.Project\Converter.Common\obj\Debug\netcoreapp3.1\Converter.Common.AssemblyInfoInputs.cache
+C:\Users\thimo\source\repos\Converter.Project\Converter.Common\obj\Debug\netcoreapp3.1\Converter.Common.AssemblyInfo.cs
+C:\Users\thimo\source\repos\Converter.Project\Converter.Common\obj\Debug\netcoreapp3.1\Converter.Common.csproj.CoreCompileInputs.cache
+C:\Users\thimo\source\repos\Converter.Project\Converter.Common\obj\Debug\netcoreapp3.1\Converter.Common.dll
+C:\Users\thimo\source\repos\Converter.Project\Converter.Common\obj\Debug\netcoreapp3.1\Converter.Common.pdb
